@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sunrise Place</string>
+
+    <string-array name="nama_gunung">
+        <item>1. Gunung Kerinci
+</item>
+        <item>2. Gunung Tambora
+</item>
+        <item>3. Gunung Rinjani
+</item>
+        <item>4. Gunung Ijen
+</item>
+        <item>5. Gunung Prau
+</item>
+        <item>6. Gunung Papandayan
+</item>
+        <item>7. Gunung Bromo
+</item>
+        <item>8. Gunung Semeru
+</item>
+
+    </string-array>
+</resources>
